@@ -117,6 +117,13 @@ const akshat = {
 </p>
 
 ---
+### Contribution Graph 
+<p align="center">
+  <!-- Activity (line) -->
+  <img src="https://activity-graph.herokuapp.com/graph?username=AkshatAmeria&theme=dracula&area=true&hide_border=true" alt="activity graph" />
+</p>
+
+---
 
 <div align="center">
 
