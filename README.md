@@ -116,12 +116,7 @@ const akshat = {
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AkshatAmeria&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak"/>
 </p>
 
----
-### Contribution Graph 
-<p align="center">
-  <!-- Activity (line) -->
-  <img src="https://activity-graph.herokuapp.com/graph?username=AkshatAmeria&theme=dracula&area=true&hide_border=true" alt="activity graph" />
-</p>
+
 
 ---
 
