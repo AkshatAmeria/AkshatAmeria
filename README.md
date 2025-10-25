@@ -1,81 +1,134 @@
-<h1 align="center">Hey, I'm Akshat 👋</h1>
+<div align="center">
+
+# 👋 Hey, I'm Akshat
+
+<a href="https://github.com/AkshatAmeria">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Aspiring+Full+Stack+Developer+%F0%9F%9A%80;Building+Tomorrow's+Solutions+%F0%9F%92%BB;Turning+Ideas+Into+Reality+%E2%9C%A8" alt="Typing Animation" />
+</a>
+
+</div>
+
+---
+
+## 🌐 Connect With Me
 
 <p align="center">
   <a href="https://github.com/AkshatAmeria">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=800&color=00F7FF&center=true&vCenter=true&width=550&lines=Full+Stack+Developer+%F0%9F%9A%80;AI+%2F+IoT+Systems+Builder+%F0%9F%94%8C;Turning+Ideas+Into+Reality+%F0%9F%94%A5" alt="Typing Animation" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://linkedin.com/in/akshat-ameria-050899248">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:120104.akshat@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://drive.google.com/file/d/1DRggkuHn2vAgwzmPTg2VoIb8aK7iFHr3/view?usp=sharing">
+    <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume"/>
   </a>
 </p>
 
 ---
 
-### 🔗 Connect With Me
-<p align="left">
-  <a href="https://github.com/AkshatAmeria"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" /></a>
-  <a href="https://linkedin.com/in/akshat-ameria-050899248"><img src="https://img.shields.io/badge/LinkedIn-0066C8?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:120104.akshat@gmail.com"><img src="https://img.shields.io/badge/Email-FF4B4B?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
+## ⚡ About Me
+
+```typescript
+const akshat = {
+  role: "Aspiring Full Stack Developer",
+  focus: ["Performance", "Security", "User Experience"],
+  interests: ["AI Integration", "IoT Systems", "Automation"],
+  currentlyExploring: ["Agentic AI Systems", "Cloud Edge Deployments"],
+  philosophy: "Ship fast. Solve real problems. Build with purpose."
+};
+```
 
 ---
 
-### ⚡ About Me
-- 🧠 I build **full-stack applications** with strong emphasis on **performance & security**
-- ⚙️ I love integrating **AI models**, **IoT hardware**, and **automation workflows**
-- 🛰️ Currently exploring: **Agentic AI Systems**, **Cloud Edge Deployments**
-- 🚀 I like to **ship fast** and solve real-world problems
+## 🛠️ Tech Stack
+
+<table align="center">
+<tr>
+<td align="center" width="50%">
+
+### Frontend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,html,css&perline=6" />
+</p>
+
+</td>
+<td align="center" width="50%">
+
+### Backend & Databases
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,prisma,mongodb,postgres,firebase&perline=6" />
+</p>
+
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+
+### DevOps & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,git,github,postman,neovim&perline=5" />
+</p>
+
+</td>
+<td align="center" width="50%">
+
+### AI & Integrations
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=googlecloud&perline=3" />
+  <br/>
+  <img src="https://img.shields.io/badge/Gemini_AI-8E75B2?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white" />
+</p>
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 🛠 Tech Stack
+## 🚀 Featured Projects
 
-#### **Frontend**
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,shadcn,vite,html,css&perline=8" />
-</p>
+<div align="center">
 
-#### **Backend & Databases**
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,prisma,mongodb,postgres,firebase,neovim&perline=8" />
-</p>
-
-#### **DevOps & Tools**
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,git,github,postman&perline=8" />
-</p>
-
-#### **AI & Integrations**
-<p>
-  <img src="https://skillicons.dev/icons?i=googlecloud" /> Gemini AI · n8n · Twilio
-</p>
-
----
-
-### 🚀 Highlighted Projects
-
-| Project | Description | Tech |
-|--------|-------------|------|
-| **ex Financial Management App** | Personal finance dashboard with real-time alerts & Google auth | Next.js · Prisma · Supabase |
+| 💼 Project | 📝 Description | ⚙️ Tech Stack |
+|:-----------|:---------------|:--------------|
+| **ex Financial Management** | Personal finance dashboard with real-time alerts & Google auth | Next.js · Prisma · Supabase |
 | **TransferP2P Wallet** | Peer-to-peer wallet with automated transaction checks & SMS alerts | Node.js · Twilio · PostgreSQL |
-| **ScanProt Document Vault** | Privacy-first encrypted vault + AI chatbot | React · AES · IndexedDB |
-| **HomeSecure IoT Emergency System** | ESP32 alerts + Gemini chatbot + Telegram bot | ESP32 · Firebase · n8n |
+| **ScanProt Document Vault** | Privacy-first encrypted vault with AI-powered chatbot | React · AES · IndexedDB |
+| **HomeSecure IoT System** | ESP32-based emergency alert system with Gemini AI & Telegram bot | ESP32 · Firebase · n8n |
+
+</div>
 
 ---
 
-### 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AkshatAmeria&show_icons=true&theme=radical&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkshatAmeria&layout=compact&theme=radical&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AkshatAmeria&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9" height="180" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkshatAmeria&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9" height="180" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AkshatAmeria&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak"/>
 </p>
 
 ---
 
-### 🐍 Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AkshatAmeria/AkshatAmeria/output/github-contribution-grid-snake.svg" />
-</p>
+<div align="center">
+
+### 💡 *"Code is art. I just paint with logic."* 🎨
+
+<img src="https://komarev.com/ghpvc/?username=AkshatAmeria&color=00D9FF&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
+
+</div>
 
 ---
 
-### 💡 Fun Fact
-> Code is art. I just paint with logic. 🎨
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00D9FF&height=100&section=footer" width="100%"/>
+</div>
 
